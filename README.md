@@ -4,9 +4,9 @@ Site realizado para estudo de NodeJS e suas ferramentas!
 
 
 O site tem duas funções principais:
-1º Expor noticias para leitores.
+1º Expor notícias para leitores.
 
-2º Facilitar o trabalho de jornalistas com a rota administrativa '/cadastro', onde noticias podem ser inseridas diretamente no banco de dados, fazendo com que as outras
+2º Facilitar o trabalho de jornalistas com a rota administrativa '/cadastro', onde notícias podem ser inseridas diretamente no banco de dados, fazendo com que as outras
 abas se atualizem automáticamente
 
 ![image](https://user-images.githubusercontent.com/101595139/166470058-506b7323-1146-4f11-ab67-ab705874ae7a.png)
