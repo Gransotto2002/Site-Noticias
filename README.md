@@ -8,6 +8,7 @@ O site tem duas funções principais:
 
 2º Facilitar o trabalho de jornalistas com a rota administrativa '/cadastro', onde notícias podem ser inseridas diretamente no banco de dados, fazendo com que as outras
 abas se atualizem automáticamente
+
 ![image](https://user-images.githubusercontent.com/101595139/166472195-2bc3f175-6743-4137-8708-d62437cd1cde.png)
 
 
